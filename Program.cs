@@ -10,14 +10,19 @@ namespace VSCodeTehtava
     {
         static async Task Main(string[] args)
         {
-            OfflineCityBikeDataFetcher OfflineQuery = new OfflineCityBikeDataFetcher();
-            Task<int> bikeamount2 = OfflineQuery.GetBikeCountInStation(args[0]);
-
-            RealTimeCityBikeDataFetcher querier = new RealTimeCityBikeDataFetcher();
-            Task<int> bikeamount = querier.GetBikeCountInStation(args[0]);
-            Console.WriteLine("Waiting results");
-            int result = await bikeamount;
+            if (args[0] == "realtime")
+            {
+                RealTimeCityBikeDataFetcher querier = new RealTimeCityBikeDataFetcher();
+                Task<int> bikeamount = querier.GetBikeCountInStation(args[1]);
+                Console.WriteLine("Waiting results");
+                int result = await bikeamount;
+            }
+            
+            else if (args[0] == "offline")
+            {
+                OfflineCityBikeDataFetcher OfflineQuery = new OfflineCityBikeDataFetcher();
+                Task<int> bikeamount2 = OfflineQuery.GetBikeCountInStation(args[0]);
+            }
         }
-
     }
 }
