@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9LkSxOjgGGr4aDq6dR9FDG+d2c2hnlfP8tYfwyqn9JDkDERtvM8g22cJluepsg0BMy24rI6Nfoq9ftqnmwR/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juuso\\Desktop\\VSCodeTehtava\\VSCodeTehtava.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juuso\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

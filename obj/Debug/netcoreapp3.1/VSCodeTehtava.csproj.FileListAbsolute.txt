@@ -1,0 +1,15 @@
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\VSCodeTehtava.exe
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\VSCodeTehtava.deps.json
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\VSCodeTehtava.runtimeconfig.json
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\VSCodeTehtava.runtimeconfig.dev.json
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\VSCodeTehtava.dll
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\VSCodeTehtava.pdb
+C:\Users\Juuso\Desktop\VSCodeTehtava\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.csprojAssemblyReference.cache
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.AssemblyInfoInputs.cache
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.AssemblyInfo.cs
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.csproj.CoreCompileInputs.cache
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.csproj.CopyComplete
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.dll
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.pdb
+C:\Users\Juuso\Desktop\VSCodeTehtava\obj\Debug\netcoreapp3.1\VSCodeTehtava.genruntimeconfig.cache
